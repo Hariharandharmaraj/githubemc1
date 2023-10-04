@@ -1,6 +1,6 @@
 # EMC Page Project
 
-![Project Image](link_to_project_image.png)
+![Project Image](EMC.png)
 
 ## Introduction
 
